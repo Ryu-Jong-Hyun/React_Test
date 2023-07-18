@@ -10,6 +10,8 @@ function App() {
       <br></br>
       GoodBye By jhryu3
       <br></br>
+      GoodBye By jhryu4
+      <br></br>
       <button className={AppStyle["btn_custom"]}>
         Hello React World By Young
       </button>
