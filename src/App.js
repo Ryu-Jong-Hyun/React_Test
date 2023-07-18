@@ -5,7 +5,9 @@ function App() {
   return (
     <div className="App">
       Hello React World By jhryu
-
+      <br></br>
+      GoodBye By jhryu2
+      <br></br>
       <button className={AppStyle["btn_custom"]}>
         Hello React World By Young
       </button>
